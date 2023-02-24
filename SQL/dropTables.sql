@@ -1,0 +1,12 @@
+drop table [dbo].[Inventory_tbl]
+drop table [dbo].[Agreement_tbl]
+drop table [dbo].[rightsholders_tbl]
+drop table [dbo].[Purchase_tbl]
+drop table [dbo].[InventoryDocuments_tbl]
+drop table [dbo].[Contract_tbl]
+drop table [dbo].[Invoice_tbl]
+drop table [dbo].[cemetery_tbl]
+drop table [dbo].[Type_tbl]
+drop table [dbo].[status_tbl]
+drop table [dbo].[Range_tbl]
+
